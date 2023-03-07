@@ -15,3 +15,4 @@ function bringSingara(money){
 }
 var singaras = bringSingara(100);
 console.log(singaras);
+
